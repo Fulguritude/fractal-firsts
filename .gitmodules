@@ -1,0 +1,12 @@
+[submodule "haskell-fractal"]
+	path = haskell-fractal
+	url = https://github.com/Fulguritude/haskell-fractal
+[submodule "rust-fractal"]
+	path = rust-fractal
+	url = https://github.com/Fulguritude/rust-fractal
+[submodule "42_fractol"]
+	path = 42_fractol
+	url = https://github.com/Fulguritude/42_fractol
+[submodule "webpack-react-test"]
+	path = webpack-react-test
+	url = https://github.com/LexouDuck/webpack-react-test
