@@ -5,8 +5,8 @@
 	path = rust-fractal
 	url = https://github.com/Fulguritude/rust-fractal
 [submodule "42_fractol"]
-	path = 42_fractol
+	path = c-fractal
 	url = https://github.com/Fulguritude/42_fractol
 [submodule "webpack-react-test"]
-	path = webpack-react-test
+	path = reactts-fractal
 	url = https://github.com/LexouDuck/webpack-react-test
